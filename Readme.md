@@ -8,4 +8,4 @@ Assets-20251117T175252Z-1-001 - This is a Folder containing all the images used 
 # Project Set Up
 If you want to have the project on your device,follow the following procedure
 1. Git clone https://github.com/HK-001-Ke/StreetFood-Webpage.git
-2. Open the 'Main Page.html' and launch the live server.
+2. Open the 'Main Page.html' and launch the live server. 
