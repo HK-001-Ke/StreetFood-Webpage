@@ -1,0 +1,325 @@
+
+.Top-Info {word-spacing: 65px;
+color: rgb(0, 0, 0);
+font-size: larger;}
+.Section-1{background-color: #d4dad1;
+height: auto;}
+.StreetFood {position: relative;
+left: 30px;}
+.StreetFood {width: 400px;}
+#StreetFood-Heading {color: #6cb840;}
+#Food {color: #eaab1b;}
+.StreetFood {position: relative;
+bottom: -4px;}
+.Yapping {font-size: larger;}
+.pill-Button { background-color: #6cb840;
+color: aliceblue;
+border: #6cb840;
+cursor: pointer;
+border-radius: 50px;
+position: relative;
+left: 30px;
+padding: 15px 30px;
+font-size: 18px;}
+#images {position: relative;
+left: 650px;
+top: -400px;}
+#Image-2 {position: relative;
+left: 570px;
+top: -450px}
+#Image-3 {position: relative;
+left: 620px;
+top: -400px;}
+#Image-4 {position: relative;
+left: 620px;
+top: -400px;}
+#Image-5 {position: relative;
+left: 600px;
+top: -470px;}
+#Image-6 {position: relative;
+left: 620px;
+top: -400px;}
+.Section-1 {height: auto;}
+#Eat-Together-Heading {color: #eaab1b
+;
+position: relative;
+left: 650px;}
+.Eat-together {width: 450px;
+position: relative;
+left: 650px;}
+.Explore-Menu{background-color:#ddf0d3;}
+#Hot-Deals-Heading {color: #000;
+font-size: 38px;}
+#Deals-Head {color: #6cb840;
+position: relative;
+left: 10px;}
+.Hot-Deals {background-color:#c9ecb5;}
+
+
+.Contact-us {background-color:  #ffd77c;}
+.Lower-Area{ background: color ;}
+#Email-Button {padding: 12px 15px;
+    width: 60%;
+background-color: aliceblue ;
+border:1px solid #ccc;
+outline: none;
+margin-top: 20px;
+font-size: 16px;
+border-radius: 30px;
+position: relative;
+left: 320px;
+text-align: start;}
+#yapper {width: 500px; 
+position: relative;
+left: 380px;
+font-size: larger;}
+#Contact {position: relative;
+left: 450px;}
+#Send-Button {padding: 15px 70px;
+background-color:  #6cb840;
+border: #6cb840;
+border-radius: 50px;
+position: relative;
+left: 520px;
+color: aliceblue;}
+.Lower-Area {background-color:#c9ecb5;}
+#Lower-Send-Button {padding: 15px 30px;
+background-color:  #6cb840;
+border: #6cb840;;
+position: relative;
+left: 1150px;
+top:-120px ;
+color: white}
+#StreetFood-Heading {font-size: 50px;}
+#Eat-Together-Heading {position: relative;top: 100px;
+left: 690px;}
+.Eat-together {width:490px;
+position: relative;top: 100px;
+font-size: 25px;}
+.Burger-pic-1 {width:200px;
+height: 150px;
+position: relative;
+right: 1000px;
+top: -135px;}
+.Burger-pic-2{width:200px;
+height: 150px;
+position: relative;
+top: -325px;
+left: 380px;}
+.Burger-pic-3{width:200px;
+height: 150px;
+position: relative;
+top: -325px;
+left: 620px;}
+.Burger-pic-4 {width:200px;
+height: 150px;
+position: relative;
+top:-45px ;
+left: -445px;}
+.Burger-pic-5 {width: 200px;
+height: 150px;
+position: relative;
+top: -39px;
+right: 230px;}
+.Burger-pic-6 {width:200px ;
+height: 150px;
+position: relative;
+top: -35px;
+left: 10px;}
+.Burger-List{position: relative;
+left: 40px;
+width: 200px;
+top: 17px;
+padding: 10px 20px;
+display: inline-block;
+border-radius: 12px;
+border-left: 80px solid white;
+font-size: 23px;
+color: #000;
+font-weight: 300;
+background-color: white;
+
+}
+.Burger-List-2{position: relative;
+left: 140px;
+width: 200px;
+top: 17px;background-color: white;
+padding: 10px 20px;
+display: inline-block;
+border-radius: 12px;
+border-left: 80px solid white;
+font-size: 23px;
+color: #000;
+font-weight: 300;
+}
+.Burger-List-3{position: relative;
+left: 250px;
+width: 200px;
+top: 17px;background-color: white;
+padding: 10px 20px;
+display: inline-block;
+border-radius: 12px;
+border-left:80px solid white;
+font-size: 23px;
+color: #000;
+font-weight: 300;
+}
+.Burger-List-4{position: relative;
+left: 40px;
+top:80px;
+width: 200px;background-color: white;
+padding: 10px 20px;
+display: inline-block;
+border-radius: 12px;
+border-left: 80px solid white;
+font-size: 23px;
+color: #000;
+font-weight: 300;
+}
+.Burger-List-6{position: relative;
+left: -180px;
+top: 85px;
+width: 200px;background-color: white;
+padding: 10px 20px;
+display: inline-block;
+border-radius: 12px;
+border-left: 80px solid white;
+font-size: 23px;
+color: #000;
+font-weight: 300;
+}
+.Burger-List-5{position: relative;
+left: 580px;
+top: 90px;
+width: 200px;
+background-color: white;
+padding: 10px 20px;
+display: inline-block;
+border-radius: 12px;
+border-left: 80px solid white;
+font-size: 23px;
+color: #000;
+font-weight: 300;
+}
+#Burger-Name{position: relative;
+    left: -90px;
+margin-bottom: -10px;}
+.Hot-Deals{padding: 60px 20px;
+width:100%}
+
+#Hot-Deals-Heading{color:#000;
+display: flex;
+justify-content: center;}
+#Combo-Card{color:#6cb840;
+font-size: 36px;
+position: relative; 
+left: 660px;
+bottom: -30px;
+font-weight: 700;
+margin: 0;}
+#Burger-Pizz-Header{position: relative;
+left:660px;
+bottom:-50px;
+font-size: 28px;
+font-weight: 600;
+margin: 15px 0 25px 0;}
+#Fries-n-Drinks{position: relative;
+left: 660px;
+bottom: -40px;
+font-size: 28px;
+font-weight: 600;
+margin: 15px 0 25px 0}
+#yap-2{position:relative;
+left: 640px;
+bottom: -35px;
+max-width: 500px;
+    margin: 20px;
+    line-height: 1.6;
+    font-size: 20px;
+    color: #555;
+font-weight: 300;}
+.Jyuuce {position: relative;
+top: -450px;}
+.Burger-w-jyuuce{position: relative;
+top: -400px;
+right: 400px;}
+#Us{color: #6cb840;}
+#Contact{position: relative;
+left: 560px;
+font-size: 28px;
+font-weight: 600;}
+#yapper {max-width: 500px;
+    margin: 20px;
+    line-height: 1.6;
+    font-size: 16px;
+    color: #555;
+font-weight: 300;
+position: relative;right: 500px;}
+.Contact-us{padding: 40px 20px;
+color: #333;}
+#First-column{position: relative;
+    top: 100px;}
+#Second-column{position: relative;
+left: 300px;}
+#Last-column{position: relative;
+left:750px;
+top: -99px;}
+body {font-family: "Poppins",sans-serif;}
+#Explore-Menu-Heading {position: relative;
+left: 500px;
+top: 40px;
+font-weight: 300;}
+#Menu{color: #6cb840;}
+.Eat-together{
+margin: 20px;
+    line-height: 1.6;
+    font-size: 20px;
+    color: #555;
+font-weight: 300;
+max-width: 100%;
+}
+#Eat-Together-Heading{font-weight: 300;}
+.Yapping{margin: 10px;
+    line-height: 1.6;
+    font-size: 17px;
+    color: #000;
+font-weight: 300;}
+#Sub-Heading {font-weight: 300;
+margin: 10px;}
+#StreetFood-Heading {font-weight: 300;
+margin: 10px;}
+.StreetFood {font-size: 20px;
+position: relative;
+top: 250px;}
+.pill-Button {position: relative;
+top:280px}
+.Top-Info {font-weight: 545;
+position: relative;
+top: 120px;
+gap: 20px;}
+.Main-Image{position: relative;
+left:13px ;
+top: 550px;
+width: 250px;
+height: 250px;}
+.First-In-Rotation{position: relative;
+top:300px;
+left: -100px;}
+.Second-In-Rotation{position: relative;
+left: -60px;
+top: -0px;}
+.Third-In-Rotation{position: relative;
+top: -200px;
+left: 110px;}
+.Fourth-In-Rotation{position: relative;
+top: -180px;
+left: 300px;}
+.Last-In-Rotation{position: relative;
+top: -250px;
+left: 380px;}
+#Streetfood-star{font-size: 30px;
+position: relative;
+top: 50px;}
+.Explore-Menu{background-color: #e5f4dd;}
+.Lower-Area{background-color: #c9ecb5;}
+#Explore-Menu-Heading{margin-bottom: 50px;}
