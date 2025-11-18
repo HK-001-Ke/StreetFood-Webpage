@@ -12,6 +12,6 @@ If you want to have the project on your device,follow the following procedure
 1. Git clone https://github.com/HK-001-Ke/StreetFood-Webpage.git
 2. Open the 'Main Page.html' and launch the live server. 
 ## Link to Git Hub Pages
-https://hk-001-ke.github.io/StreetFood-Webpage/
-Copyright (c) 2025 [Hope Kariuki]
+1. https://hk-001-ke.github.io/StreetFood-Webpage/
+2. Copyright (c) 2025 [Hope Kariuki]
 No License.
