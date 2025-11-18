@@ -7,7 +7,7 @@ This is a streetfood webpage showing the different food menus and descriptions.I
 2. StreetFood.css - This is the css file,the editing file.
 3. Readme.md - This is a short description/summary of the Folder.
 4. Assets-20251117T175252Z-1-001 - This is a Folder containing all the images used in the page.
-# Project Set Up
+## Project Set Up
 If you want to have the project on your device,follow the following procedure
 1. Git clone https://github.com/HK-001-Ke/StreetFood-Webpage.git
 2. Open the 'Main Page.html' and launch the live server. 
