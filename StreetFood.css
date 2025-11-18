@@ -11,7 +11,7 @@ left: 30px;}
 #Food {color: #eaab1b;}
 .StreetFood {position: relative;
 bottom: -4px;}
-.Yapping {font-size: larger;}
+.Yapping {font-size: 25px;}
 .pill-Button { background-color: #6cb840;
 color: aliceblue;
 border: #6cb840;
@@ -281,7 +281,7 @@ max-width: 100%;
 #Eat-Together-Heading{font-weight: 300;}
 .Yapping{margin: 10px;
     line-height: 1.6;
-    font-size: 17px;
+    font-size: 20px;
     color: #000;
 font-weight: 300;}
 #Sub-Heading {font-weight: 300;
@@ -323,3 +323,8 @@ top: 50px;}
 .Explore-Menu{background-color: #e5f4dd;}
 .Lower-Area{background-color: #c9ecb5;}
 #Explore-Menu-Heading{margin-bottom: 50px;}
+.Star {position: relative;
+left: 430px;
+top: -150px;
+width: 200px;
+height: 160px;}
